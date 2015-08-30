@@ -1,0 +1,6 @@
+C:\Users\pawlo_000\Desktop\NServiceBus\Deployment\Subscriber.exe.config
+C:\Users\pawlo_000\Desktop\NServiceBus\Deployment\Subscriber.exe
+C:\Users\pawlo_000\Desktop\NServiceBus\Deployment\Subscriber.pdb
+C:\Users\pawlo_000\Desktop\NServiceBus\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\pawlo_000\Desktop\NServiceBus\Subscriber\obj\Debug\Subscriber.exe
+C:\Users\pawlo_000\Desktop\NServiceBus\Subscriber\obj\Debug\Subscriber.pdb

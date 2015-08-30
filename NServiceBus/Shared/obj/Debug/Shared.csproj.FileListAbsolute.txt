@@ -1,0 +1,5 @@
+C:\Users\pawlo_000\Desktop\NServiceBus\Deployment\Shared.dll
+C:\Users\pawlo_000\Desktop\NServiceBus\Deployment\Shared.pdb
+C:\Users\pawlo_000\Desktop\NServiceBus\Shared\obj\Debug\Shared.dll
+C:\Users\pawlo_000\Desktop\NServiceBus\Shared\obj\Debug\Shared.pdb
+C:\Users\pawlo_000\Desktop\NServiceBus\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache

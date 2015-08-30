@@ -1,0 +1,5 @@
+C:\Users\pawlo_000\Desktop\NServiceBus\Deployment\Client.exe
+C:\Users\pawlo_000\Desktop\NServiceBus\Deployment\Client.pdb
+C:\Users\pawlo_000\Desktop\NServiceBus\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\pawlo_000\Desktop\NServiceBus\Client\obj\Debug\Client.exe
+C:\Users\pawlo_000\Desktop\NServiceBus\Client\obj\Debug\Client.pdb
